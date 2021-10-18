@@ -1,0 +1,13 @@
+.circulo--red {
+  height: 100px;
+  width: 100px;
+  background-color: red;
+  border-radius: 50%;
+}
+
+.circulo--blue {
+  height: 100px;
+  width: 100px;
+  background-color: blue;
+  border-radius: 50%;
+}
